@@ -1,0 +1,14 @@
+{
+"cityDetails" : [
+    {
+      "id": "1",
+      "city_name": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "2",
+      "city_name": "Bangalore",
+      "state": "Karnataka"
+    }
+  ]
+}
